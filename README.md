@@ -1,6 +1,6 @@
 Original repo https://github.com/sthalles/SimCLR
-Modified to work with numpy arrays and custom transofrmations.
-Most important files for future work adre dataset_wrapper.py and OcuveraDataset.py
+Modified to work with numpy arrays and custom transformations.
+Most important files for future work are dataset_wrapper.py and OcuveraDataset.py
 
 # PyTorch SimCLR: A Simple Framework for Contrastive Learning of Visual Representations
 
